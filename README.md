@@ -9,6 +9,7 @@ it belongs to Alice or somebody else.
 
 
 2. Flight delays
+
 Predict whether a flight will be delayed for more than 15 minutes.
 
 3. Digital Reputation Challenge (https://boosters.pro/championships) 

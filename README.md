@@ -1,4 +1,4 @@
-## kaggle-competitions
+##  projects and competitions
 
 1. Alice competition
 

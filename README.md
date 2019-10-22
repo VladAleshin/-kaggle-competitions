@@ -10,7 +10,7 @@ it belongs to Alice or somebody else.
 
 2. Flight delays (https://www.kaggle.com/c/flight-delays-fall-2018)
 
-Predict whether a flight will be delayed for more than 15 minutes.
+Predict whether a flight will be delayed for more than 15 minutes. Metric ROC AUC, model CatBoost
 
 3. Digital Reputation Challenge (https://boosters.pro/championship/digital_reputation_challenge/overview) 
 

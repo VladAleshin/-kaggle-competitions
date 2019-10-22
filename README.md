@@ -5,7 +5,7 @@
 Here we try to identify a user on the Internet tracking his/her 
 sequence of attended Web pages. The algorithm to be built will take a webpage session
 (a sequence of webpages attended consequently by the same person) and predict whether 
-it belongs to Alice or somebody else.
+it belongs to Alice or somebody else. Metric ROC AUC, model logistic regression
 
 
 2. Flight delays (https://www.kaggle.com/c/flight-delays-fall-2018)

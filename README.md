@@ -19,3 +19,7 @@ Participants will have to predict 5 properties of character (1 - property observ
 4. IEEE-CIS Fraud Detection (https://www.kaggle.com/c/ieee-fraud-detection/overview)
 
 The goal of the competition is to learn how to define fraud transactions. Mertic ROC AUC, model lightGBM
+
+5. ASHRAE - Great Energy Predictor III (https://www.kaggle.com/c/ashrae-energy-prediction)
+
+The goal of the competition is to predict building energy usage in the following areas: chilled water, electric, hot water, and steam meters. 

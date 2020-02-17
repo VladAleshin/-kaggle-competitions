@@ -20,6 +20,6 @@ Participants will have to predict 5 properties of character (1 - property observ
 
 The goal of the competition is to learn how to define fraud transactions. Mertic ROC AUC, model lightGBM
 
-5. ASHRAE - Great Energy Predictor III (https://www.kaggle.com/c/ashrae-energy-prediction)
+5. EDA ASHRAE - Great Energy Predictor III (https://www.kaggle.com/c/ashrae-energy-prediction)
 
-The goal of the competition is to predict building energy usage in the following areas: chilled water, electric, hot water, and steam meters. 
+The goal of the competition is to predict building energy usage in the following areas: chilled water, electric, hot water, and steam meters. Evaluation metric - RMSLE.
